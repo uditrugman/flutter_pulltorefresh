@@ -2,8 +2,8 @@ name: pull_to_refresh
 description: a widget provided to the flutter scroll component drop-down refresh and pull up load.
 version: 3.0.0
 homepage: https://github.com/peng8350/flutter_pulltorefresh
-#publish_to: https://pub.trugman.com/
-publish_to: https://dart.pkg.jetbrains.space/trugman/p/main/dart/
+publish_to: https://pub.trugman.com/
+#publish_to: https://dart.pkg.jetbrains.space/trugman/p/main/dart/
 
 
 environment:
